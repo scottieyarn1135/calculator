@@ -39,4 +39,4 @@ elif Mode == 4:
 elif Mode == 5:
     print(f"{N1} / {N2} = {Divide()}")
 else:
-    print("What are you doing in my swamp")
+    print("incorrect input!")
