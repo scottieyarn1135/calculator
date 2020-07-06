@@ -2,12 +2,12 @@ print("Easy 2.0 calcgang")
 # Mode
 print("Select a mode")
 print('''
-        Mode 1 - Add
-        Mode 2 - Subtract
-        Mode 3 - Mutiply
-        Mode 4 - Power
-        Mode 5 - Divide
-                       ''')
+Mode 1 - Add
+Mode 2 - Subtract
+Mode 3 - Mutiply
+Mode 4 - Power
+Mode 5 - Divide
+               ''')
 # User Input
 Mode = int(input("Select a Mode!: "))
 N1 = float(input("First Number here!: "))
